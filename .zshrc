@@ -19,3 +19,5 @@ unset __conda_setup
 #Completion
 autoload -Uz compinit
 
+#Alias for going to Energy gap
+alias "cd UIUC_RA/Energy_gap"=egap
